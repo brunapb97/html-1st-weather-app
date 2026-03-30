@@ -1,1 +1,3 @@
 # html-1st-weather-app
+Status: 
+Em desenvolvimento...
